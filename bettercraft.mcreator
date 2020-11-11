@@ -1,0 +1,26 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "bettercraft",
+    "modName": "BetterCraft",
+    "version": "1.0.0",
+    "author": "daoro, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.14.4",
+    "modElementsPackage": "net.mcreator.bettercraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
