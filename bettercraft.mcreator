@@ -1,10 +1,50 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "InfusedCoal",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_coal"
+    },
+    {
+      "name": "BetterCraftMaterials",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_craft_materials"
+    },
+    {
+      "name": "InfusedCoalFuel",
+      "type": "fuel",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_coal_fuel"
+    },
+    {
+      "name": "InfusedCoalRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infused_coal_recipe"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.bettercraft.infused_coal": "Infused Coal",
+      "itemGroup.tabbetter_craft_materials": "Better Craft Materials"
+    }
   },
   "workspaceSettings": {
     "modid": "bettercraft",

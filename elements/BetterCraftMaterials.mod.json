@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Better Craft Materials",
+    "icon": {
+      "value": "CUSTOM:InfusedCoal"
+    },
+    "showSearch": false
+  }
+}
