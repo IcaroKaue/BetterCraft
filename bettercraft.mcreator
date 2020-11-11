@@ -36,6 +36,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "infused_coal_recipe"
+    },
+    {
+      "name": "AluminumOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_ore"
     }
   ],
   "variable_elements": [],
@@ -43,7 +52,8 @@
   "language_map": {
     "en_us": {
       "item.bettercraft.infused_coal": "Infused Coal",
-      "itemGroup.tabbetter_craft_materials": "Better Craft Materials"
+      "itemGroup.tabbetter_craft_materials": "Better Craft Materials",
+      "block.bettercraft.aluminum_ore": "Aluminum Ore"
     }
   },
   "workspaceSettings": {
