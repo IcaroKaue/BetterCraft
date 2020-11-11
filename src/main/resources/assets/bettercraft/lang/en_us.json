@@ -1,5 +1,6 @@
 {
   "item.bettercraft.infused_coal": "Infused Coal",
   "itemGroup.tabbetter_craft_materials": "Better Craft Materials",
-  "block.bettercraft.aluminum_ore": "Aluminum Ore"
+  "block.bettercraft.aluminum_ore": "Aluminum Ore",
+  "item.bettercraft.aluminum_ingot": "Aluminum Ingot"
 }

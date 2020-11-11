@@ -45,6 +45,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "aluminum_ore"
+    },
+    {
+      "name": "AluminumIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_ingot"
+    },
+    {
+      "name": "AluminumSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_smelting"
+    },
+    {
+      "name": "AluminumBlasting",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_blasting"
     }
   ],
   "variable_elements": [],
@@ -53,7 +80,8 @@
     "en_us": {
       "item.bettercraft.infused_coal": "Infused Coal",
       "itemGroup.tabbetter_craft_materials": "Better Craft Materials",
-      "block.bettercraft.aluminum_ore": "Aluminum Ore"
+      "block.bettercraft.aluminum_ore": "Aluminum Ore",
+      "item.bettercraft.aluminum_ingot": "Aluminum Ingot"
     }
   },
   "workspaceSettings": {
