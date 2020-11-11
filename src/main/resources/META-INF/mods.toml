@@ -7,7 +7,8 @@ version="1.0.0"
 displayName="BetterCraft"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="daoro, MCreator"
+logoFile="logo.png"
+authors="Icaro_Games_BR, MCreator"
 
 [[dependencies.bettercraft]]
     modId="minecraft"
